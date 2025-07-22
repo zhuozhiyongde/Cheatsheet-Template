@@ -2,6 +2,10 @@
 
 这是一个基于 Pandoc + LaTeX 的 Cheatsheet 模板项目，用于将 Markdown 文件快速转换为紧凑美观、矢量化的 Cheat Sheet PDF。模板支持中文内容，采用 A4 横向排版，四栏布局。
 
+效果：
+
+![image-20250722161312167](./README.assets/image-20250722161312167.png)
+
 目前在 macOS 下测试通过，其他系统未测试。
 
 ## 🚀 快速开始
