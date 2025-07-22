@@ -10,7 +10,7 @@
 
 ## 🚀 快速开始
 
-确保系统已安装 `pandoc` 和 `xelatex`（TeX Live 或 MiKTeX）。运行编译脚本即可生成 PDF：
+确保系统已安装 `pandoc` 和 `xelatex`。运行编译脚本即可生成 PDF：
 
 ```bash
 ./compile.sh
